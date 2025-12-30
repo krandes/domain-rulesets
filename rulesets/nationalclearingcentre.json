@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "nationalclearingcenter.com"
+    },
+    {
+      "type": "suffix",
+      "value": "nationalclearingcenter.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "nationalclearingcentre.com"
+    },
+    {
+      "type": "suffix",
+      "value": "nationalclearingcentre.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "ncc-qccp.com"
+    }
+  ]
+}

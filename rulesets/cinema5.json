@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cinema5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "cinemabox.team"
+    }
+  ]
+}

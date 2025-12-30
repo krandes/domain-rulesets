@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "kuper.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sbermarket.ru"
+    }
+  ]
+}

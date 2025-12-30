@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "moex.com"
+    }
+  ]
+}

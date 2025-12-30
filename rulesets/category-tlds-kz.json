@@ -1,0 +1,14 @@
+{
+  "_comment": "Reference: https://en.wikipedia.org/wiki/.kz",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "kz"
+    },
+    {
+      "_comment": ".қаз",
+      "type": "suffix",
+      "value": "xn--80ao21a"
+    }
+  ]
+}

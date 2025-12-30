@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "doktor.kr"
+    },
+    {
+      "type": "suffix",
+      "value": "halva.email"
+    },
+    {
+      "type": "suffix",
+      "value": "halva.energy"
+    },
+    {
+      "type": "suffix",
+      "value": "halva.im"
+    },
+    {
+      "type": "suffix",
+      "value": "halva.promo"
+    },
+    {
+      "type": "suffix",
+      "value": "halva.tel"
+    },
+    {
+      "type": "suffix",
+      "value": "halvacard.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "home.bank"
+    },
+    {
+      "type": "suffix",
+      "value": "hva.im"
+    },
+    {
+      "type": "suffix",
+      "value": "scb.im"
+    },
+    {
+      "type": "suffix",
+      "value": "sovcombank.business"
+    },
+    {
+      "type": "suffix",
+      "value": "sovcombank.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sovcombank.credit"
+    },
+    {
+      "type": "suffix",
+      "value": "sovcombank.info"
+    },
+    {
+      "type": "suffix",
+      "value": "sovcombank.ru"
+    }
+  ]
+}

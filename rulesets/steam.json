@@ -1,0 +1,321 @@
+{
+  "_comment": "Reference: https://github.com/v2fly/domain-list-community/blob/master/data/steam",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "playartifact.com"
+    },
+    {
+      "type": "suffix",
+      "value": "s.team"
+    },
+    {
+      "type": "suffix",
+      "value": "steam-api.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steam-chat.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steam.tv"
+    },
+    {
+      "type": "suffix",
+      "value": "steamcommunity.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steamcontent.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steamdeck.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steamgames.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steampowered.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steamserver.net"
+    },
+    {
+      "type": "suffix",
+      "value": "steamstatic.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steamusercontent.com"
+    },
+    {
+      "type": "suffix",
+      "value": "underlords.com"
+    },
+    {
+      "type": "suffix",
+      "value": "valvesoftware.com"
+    },
+    {
+      "_comment": "Comcast",
+      "type": "suffix",
+      "value": "edge.steam-dns.top.comcast.net"
+    },
+    {
+      "_comment": "EdgeSuite",
+      "type": "full",
+      "value": "steamcommunity-a.akamaihd.net.edgesuite.net"
+    },
+    {
+      "_comment": "网宿(国际)",
+      "type": "suffix",
+      "value": "steam.apac.qtlglb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steam.eca.qtlglb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steam.naeu.qtlglb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "steam.ru.qtlglb.com"
+    },
+    {
+      "_comment": "Highwinds",
+      "type": "full",
+      "value": "a4e8s8k3.map2.ssl.hwcdn.net"
+    },
+    {
+      "type": "full",
+      "value": "f3b7q2p3.ssl.hwcdn.net"
+    },
+    {
+      "_comment": "Internode",
+      "type": "suffix",
+      "value": "steam.cdn.on.net"
+    },
+    {
+      "_comment": "Orcon",
+      "type": "suffix",
+      "value": "steam.cdn.orcon.net.nz"
+    },
+    {
+      "_comment": "Slingshot",
+      "type": "suffix",
+      "value": "steam.cdn.slingshot.co.nz"
+    },
+    {
+      "_comment": "Webra",
+      "type": "suffix",
+      "value": "steam.cdn.webra.ru"
+    },
+    {
+      "_comment": "Akamai",
+      "type": "full",
+      "value": "steambroadcast.akamaized.net"
+    },
+    {
+      "type": "full",
+      "value": "steamcdn-a.akamaihd.net"
+    },
+    {
+      "type": "full",
+      "value": "steamcommunity-a.akamaihd.net"
+    },
+    {
+      "type": "full",
+      "value": "steammobile.akamaized.net"
+    },
+    {
+      "type": "full",
+      "value": "steampipe-kr.akamaized.net"
+    },
+    {
+      "type": "full",
+      "value": "steampipe-partner.akamaized.net"
+    },
+    {
+      "type": "full",
+      "value": "steampipe.akamaized.net"
+    },
+    {
+      "type": "full",
+      "value": "steamstore-a.akamaihd.net"
+    },
+    {
+      "type": "full",
+      "value": "steamusercontent-a.akamaihd.net"
+    },
+    {
+      "type": "full",
+      "value": "steamuserimages-a.akamaihd.net"
+    },
+    {
+      "type": "full",
+      "value": "steamvideo-a.akamaihd.net"
+    },
+    {
+      "_comment": "Azure",
+      "type": "full",
+      "value": "steamcloudsweden.blob.core.windows.net"
+    },
+    {
+      "_comment": "完美",
+      "type": "suffix",
+      "value": "csgo.wmsj.cn",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "完美",
+      "type": "suffix",
+      "value": "dota2.wmsj.cn",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "完美",
+      "type": "suffix",
+      "value": "wmsjsteam.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "Steam更新",
+      "type": "suffix",
+      "value": "client-update.queniuqe.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "新流云",
+      "type": "suffix",
+      "value": "dl.steam.clngaa.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "白山云",
+      "type": "suffix",
+      "value": "st.dl.bscstorage.net",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "白山云",
+      "type": "suffix",
+      "value": "st.dl.eccdnx.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "白山云",
+      "type": "suffix",
+      "value": "st.dl.pinyuncloud.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "网宿",
+      "type": "suffix",
+      "value": "steampowered.com.8686c.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "网宿",
+      "type": "suffix",
+      "value": "steamstatic.com.8686c.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "阿里云",
+      "type": "full",
+      "value": "alibaba.cdn.steampipe.steamcontent.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "阿里云",
+      "type": "full",
+      "value": "lv.queniujq.cn",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "阿里云",
+      "type": "full",
+      "value": "xz.pphimalayanrt.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "蒸汽中国",
+      "type": "suffix",
+      "value": "steamchina.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    },
+    {
+      "_comment": "数云科技",
+      "type": "suffix",
+      "value": "gstore.val.manlaxy.com",
+      "options": {
+        "attributes": [
+          "cn"
+        ]
+      }
+    }
+  ]
+}

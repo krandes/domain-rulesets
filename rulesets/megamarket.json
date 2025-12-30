@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "megamarket.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "megamarket.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "sbermegamarket.ru"
+    }
+  ]
+}

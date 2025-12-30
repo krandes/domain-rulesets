@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "rozetked.me"
+    },
+    {
+      "type": "suffix",
+      "value": "rozetked.ru"
+    }
+  ]
+}

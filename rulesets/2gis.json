@@ -1,0 +1,57 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "2gis.ae"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.am"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.az"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.by"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.com"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.ge"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.kg"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.kz"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.su"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.tj"
+    },
+    {
+      "type": "suffix",
+      "value": "2gis.uz"
+    },
+    {
+      "_comment": "2гис.рф",
+      "type": "suffix",
+      "value": "xn--2-ftbp0b.xn--p1ai"
+    }
+  ]
+}

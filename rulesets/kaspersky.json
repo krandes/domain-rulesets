@@ -1,0 +1,148 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "kaspersky-labs.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.be"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.ca"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.in"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.jp"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.kr"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.th"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.uk"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.co.za"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.au"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.br"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.cn"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.hk"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.pl"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.tr"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.tw"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.com.vn"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.cz"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.de"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.dk"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.dz"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.es"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.fi"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.fr"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.gr"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.it"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.kz"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.ma"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.my"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.nl"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.pt"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.ro"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.rs"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "kaspersky.se"
+    }
+  ]
+}

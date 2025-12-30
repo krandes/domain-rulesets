@@ -1,0 +1,63 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "moscow"
+    },
+    {
+      "type": "suffix",
+      "value": "ru"
+    },
+    {
+      "type": "suffix",
+      "value": "su"
+    },
+    {
+      "type": "suffix",
+      "value": "tatar"
+    },
+    {
+      "_comment": ".москва",
+      "type": "suffix",
+      "value": "xn--80adxhks"
+    },
+    {
+      "_comment": ".онлайн",
+      "type": "suffix",
+      "value": "xn--80asehdb"
+    },
+    {
+      "_comment": ".сайт",
+      "type": "suffix",
+      "value": "xn--80aswg"
+    },
+    {
+      "_comment": ".орг",
+      "type": "suffix",
+      "value": "xn--c1avg"
+    },
+    {
+      "_comment": ".дети",
+      "type": "suffix",
+      "value": "xn--d1acj3b"
+    },
+    {
+      "_comment": ".рус",
+      "type": "suffix",
+      "value": "xn--p1acf"
+    },
+    {
+      "_comment": ".рф",
+      "type": "suffix",
+      "value": "xn--p1ai"
+    },
+    {
+      "type": "suffix",
+      "value": "ru.com"
+    },
+    {
+      "type": "suffix",
+      "value": "ru.net"
+    }
+  ]
+}

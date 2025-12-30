@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cloud.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sbercloud.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sbercloud.tech"
+    }
+  ]
+}

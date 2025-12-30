@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "russiacalling.com"
+    },
+    {
+      "type": "suffix",
+      "value": "russiacalling.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb-bank.kz"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.am"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.az"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.bank.in"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.by"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.ge"
+    },
+    {
+      "type": "suffix",
+      "value": "vtb.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vtbcapital.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vtbcareer.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vtbindia.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vtbmobile.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vtbnpf.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "xn--90ab2c.xn--p1ai",
+      "_comment": "втб.рф"
+    }
+  ]
+}

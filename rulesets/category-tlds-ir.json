@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "ir"
+    },
+    {
+      "_comment": ".ایران",
+      "type": "suffix",
+      "value": "xn--mgba3a4f16a"
+    },
+    {
+      "_comment": ".ايران",
+      "type": "suffix",
+      "value": "xn--mgba3a4fra"
+    }
+  ]
+}

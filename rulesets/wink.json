@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "restream-media.net"
+    },
+    {
+      "type": "suffix",
+      "value": "wink.ru"
+    }
+  ]
+}

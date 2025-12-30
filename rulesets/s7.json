@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "s7.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "s7cdn.online"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cloud4box.com"
+    },
+    {
+      "type": "suffix",
+      "value": "cloud4box.ru"
+    }
+  ]
+}

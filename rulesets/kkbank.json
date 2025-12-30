@@ -1,0 +1,83 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "kk.bank"
+    },
+    {
+      "type": "suffix",
+      "value": "kk.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-credit.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-credit.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-credit.net"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-kredit.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-kredit.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban-kredit.net"
+    },
+    {
+      "type": "suffix",
+      "value": "kuban.credit"
+    },
+    {
+      "type": "suffix",
+      "value": "kubancredit.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "kubancredit.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kubancredit.net"
+    },
+    {
+      "type": "suffix",
+      "value": "kubankredit.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "kubankredit.com"
+    },
+    {
+      "type": "suffix",
+      "value": "kubankredit.net"
+    },
+    {
+      "type": "suffix",
+      "value": "kubankredit.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "xn--80abkdqhcx2axc5i.com",
+      "_comment": "кубанькредит.com"
+    },
+    {
+      "type": "suffix",
+      "value": "xn----7sbcoetidz6azac4j.com",
+      "_comment": "кубань-кредит.com"
+    },
+    {
+      "type": "suffix",
+      "value": "xn----7sbcoetidz6azac4j.net",
+      "_comment": "кубань-кредит.net"
+    }
+  ]
+}

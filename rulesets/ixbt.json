@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "ixbt.com"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.games"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.live"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.market"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.online"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.pro"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.shop"
+    },
+    {
+      "type": "suffix",
+      "value": "ixbt.site"
+    }
+  ]
+}

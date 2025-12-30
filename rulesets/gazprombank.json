@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "gazprombank.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "gazprombank.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "gpb.ru"
+    }
+  ]
+}

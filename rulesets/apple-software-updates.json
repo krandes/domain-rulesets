@@ -1,0 +1,89 @@
+{
+  "_comment": "Reference: https://support.apple.com/en-us/101555",
+  "rules": [
+    {
+      "type": "full",
+      "value": "appldnld.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "configuration.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "fcs-keys-pub-prod.cdn-apple.com"
+    },
+    {
+      "type": "full",
+      "value": "gdmf-ados.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "gdmf.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "gg.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "gs.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "gsra.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "ig.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "mesu.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "oscdn.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "osrecovery.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "skl.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "swcdn.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "swdist.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "swdownload.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "swscan.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "updates-http.cdn-apple.com"
+    },
+    {
+      "type": "full",
+      "value": "updates.cdn-apple.com"
+    },
+    {
+      "type": "full",
+      "value": "wkms-public.apple.com"
+    },
+    {
+      "type": "full",
+      "value": "xp.apple.com"
+    }
+  ]
+}

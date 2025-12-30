@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cdn-cian.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "cian.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "cian.site"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "alibaba"
+    },
+    {
+      "type": "suffix",
+      "value": "alipay"
+    },
+    {
+      "type": "suffix",
+      "value": "baidu"
+    },
+    {
+      "type": "suffix",
+      "value": "citic"
+    },
+    {
+      "type": "suffix",
+      "value": "cn"
+    },
+    {
+      "type": "suffix",
+      "value": "icbc"
+    },
+    {
+      "type": "suffix",
+      "value": "sohu"
+    },
+    {
+      "type": "suffix",
+      "value": "taobao"
+    },
+    {
+      "type": "suffix",
+      "value": "tmall"
+    },
+    {
+      "type": "suffix",
+      "value": "unicom"
+    },
+    {
+      "_comment": ".佛山",
+      "type": "suffix",
+      "value": "xn--1qqw23a"
+    },
+    {
+      "_comment": ".集团",
+      "type": "suffix",
+      "value": "xn--3bst00m"
+    },
+    {
+      "_comment": ".在线",
+      "type": "suffix",
+      "value": "xn--3ds443g"
+    },
+    {
+      "_comment": ".网站",
+      "type": "suffix",
+      "value": "xn--5tzm5g"
+    },
+    {
+      "_comment": ".移动",
+      "type": "suffix",
+      "value": "xn--6frz82g"
+    },
+    {
+      "_comment": ".我爱你",
+      "type": "suffix",
+      "value": "xn--6qq986b3xl"
+    },
+    {
+      "_comment": ".联通",
+      "type": "suffix",
+      "value": "xn--8y0a063a"
+    },
+    {
+      "_comment": ".时尚",
+      "type": "suffix",
+      "value": "xn--9et52u"
+    },
+    {
+      "_comment": ".公益",
+      "type": "suffix",
+      "value": "xn--55qw42g"
+    },
+    {
+      "_comment": ".公司",
+      "type": "suffix",
+      "value": "xn--55qx5d"
+    },
+    {
+      "_comment": ".商标",
+      "type": "suffix",
+      "value": "xn--czr694b"
+    },
+    {
+      "_comment": ".商店",
+      "type": "suffix",
+      "value": "xn--czrs0t"
+    },
+    {
+      "_comment": ".商城",
+      "type": "suffix",
+      "value": "xn--czru2d"
+    },
+    {
+      "_comment": ".中信",
+      "type": "suffix",
+      "value": "xn--fiq64b"
+    },
+    {
+      "_comment": ".中文网",
+      "type": "suffix",
+      "value": "xn--fiq228c5hs"
+    },
+    {
+      "_comment": ".中国",
+      "type": "suffix",
+      "value": "xn--fiqs8s"
+    },
+    {
+      "_comment": ".中國",
+      "type": "suffix",
+      "value": "xn--fiqz9s"
+    },
+    {
+      "_comment": ".娱乐",
+      "type": "suffix",
+      "value": "xn--fjq720a"
+    },
+    {
+      "_comment": ".购物",
+      "type": "suffix",
+      "value": "xn--g2xx48c"
+    },
+    {
+      "_comment": ".网店",
+      "type": "suffix",
+      "value": "xn--hxt814e"
+    },
+    {
+      "_comment": ".餐厅",
+      "type": "suffix",
+      "value": "xn--imr513n"
+    },
+    {
+      "_comment": ".网络",
+      "type": "suffix",
+      "value": "xn--io0a7i"
+    },
+    {
+      "_comment": ".手机",
+      "type": "suffix",
+      "value": "xn--kput3i"
+    },
+    {
+      "_comment": ".健康",
+      "type": "suffix",
+      "value": "xn--nyqy26a"
+    },
+    {
+      "_comment": ".招聘",
+      "type": "suffix",
+      "value": "xn--otu796d"
+    },
+    {
+      "_comment": ".世界",
+      "type": "suffix",
+      "value": "xn--rhqv96g"
+    },
+    {
+      "_comment": ".网址",
+      "type": "suffix",
+      "value": "xn--ses554g"
+    },
+    {
+      "_comment": ".游戏",
+      "type": "suffix",
+      "value": "xn--unup4y"
+    },
+    {
+      "_comment": ".企业",
+      "type": "suffix",
+      "value": "xn--vhquv"
+    },
+    {
+      "_comment": ".信息",
+      "type": "suffix",
+      "value": "xn--vuq861b"
+    },
+    {
+      "_comment": ".广东",
+      "type": "suffix",
+      "value": "xn--xhq521b"
+    },
+    {
+      "_comment": ".政务",
+      "type": "suffix",
+      "value": "xn--zfr164b"
+    }
+  ]
+}

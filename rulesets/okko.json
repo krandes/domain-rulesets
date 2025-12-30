@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "okko.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "okko.sport"
+    },
+    {
+      "type": "suffix",
+      "value": "okko.tv"
+    },
+    {
+      "type": "suffix",
+      "value": "playfamily.ru"
+    }
+  ]
+}

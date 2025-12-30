@@ -1,0 +1,120 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "aihome.dev"
+    },
+    {
+      "type": "suffix",
+      "value": "oidconnect.com"
+    },
+    {
+      "type": "suffix",
+      "value": "polly.events"
+    },
+    {
+      "type": "suffix",
+      "value": "sber-bank.by"
+    },
+    {
+      "type": "suffix",
+      "value": "sber-impulse.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sber.by"
+    },
+    {
+      "type": "suffix",
+      "value": "sber.cn"
+    },
+    {
+      "type": "suffix",
+      "value": "sber.me"
+    },
+    {
+      "type": "suffix",
+      "value": "sber.pro"
+    },
+    {
+      "type": "suffix",
+      "value": "sber.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberanalytics.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberauto.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberauto.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbank-cib.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbank-pb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbank.co.in"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbank.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbank.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbankinvestmentresearch.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberbusiness.live"
+    },
+    {
+      "type": "suffix",
+      "value": "sberdevices.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberdocs.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberhealth.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberimpulse.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberlabs.com"
+    },
+    {
+      "type": "suffix",
+      "value": "sberlogistics.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "sberpravo.info"
+    },
+    {
+      "type": "suffix",
+      "value": "sberpravo.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "senat.cloud"
+    }
+  ]
+}

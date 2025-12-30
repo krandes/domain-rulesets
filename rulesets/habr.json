@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "habr.com"
+    },
+    {
+      "type": "suffix",
+      "value": "habrastorage.org"
+    },
+    {
+      "type": "suffix",
+      "value": "habr.ru"
+    }
+  ]
+}

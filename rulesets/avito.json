@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "avito.com"
+    },
+    {
+      "type": "suffix",
+      "value": "avito.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "avito.st"
+    },
+    {
+      "type": "suffix",
+      "value": "avito.tech"
+    }
+  ]
+}

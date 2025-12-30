@@ -1,0 +1,45 @@
+name: Build and Deploy Rulesets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'rulesets/**'
+      - 'builder/**'
+      - 'main.py'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Build rulesets
+        run: |
+          python main.py -f="v2ray,shadowrocket" -i="./rulesets" -o="./release"
+
+      - name: Deploy to release branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./release
+          publish_branch: release
+          force_push: true
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: "Build rulesets: ${{ github.sha }}"

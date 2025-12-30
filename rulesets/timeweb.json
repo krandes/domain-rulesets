@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "timeweb.cloud"
+    },
+    {
+      "type": "suffix",
+      "value": "timeweb.com"
+    },
+    {
+      "type": "suffix",
+      "value": "timeweb.ru"
+    }
+  ]
+}

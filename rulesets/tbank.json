@@ -1,0 +1,106 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "3ds-secure-payment.com"
+    },
+    {
+      "type": "suffix",
+      "value": "billapp.org"
+    },
+    {
+      "type": "suffix",
+      "value": "cdn-tinkoff.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "eginvestments.net"
+    },
+    {
+      "type": "suffix",
+      "value": "jump.finance"
+    },
+    {
+      "type": "suffix",
+      "value": "posl-t.org"
+    },
+    {
+      "type": "suffix",
+      "value": "securetpayment.com"
+    },
+    {
+      "type": "suffix",
+      "value": "t-avia.org"
+    },
+    {
+      "type": "suffix",
+      "value": "t-capy.org"
+    },
+    {
+      "type": "suffix",
+      "value": "t-gorod.org"
+    },
+    {
+      "type": "suffix",
+      "value": "t-static.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "t-tech.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "t-tech.team"
+    },
+    {
+      "type": "suffix",
+      "value": "t-technologies.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "t-tps.org"
+    },
+    {
+      "type": "suffix",
+      "value": "t.finance"
+    },
+    {
+      "type": "suffix",
+      "value": "tbank-online.com"
+    },
+    {
+      "type": "suffix",
+      "value": "tbank.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "tinkoff.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "womba-t.org"
+    },
+    {
+      "type": "suffix",
+      "value": "za-group.net"
+    },
+    {
+      "_comment": "T-J",
+      "type": "suffix",
+      "value": "t-j.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "tinkoffjournal.ru"
+    },
+    {
+      "_comment": "Dolyame",
+      "type": "suffix",
+      "value": "dolyame.com"
+    },
+    {
+      "type": "suffix",
+      "value": "dolyame.ru"
+    }
+  ]
+}

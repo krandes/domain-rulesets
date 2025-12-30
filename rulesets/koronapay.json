@@ -1,0 +1,60 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "corona-perevod.com"
+    },
+    {
+      "type": "suffix",
+      "value": "coronaperevod.com"
+    },
+    {
+      "type": "suffix",
+      "value": "korona-perevod.com"
+    },
+    {
+      "type": "suffix",
+      "value": "korona.com"
+    },
+    {
+      "type": "suffix",
+      "value": "koronapay.com"
+    },
+    {
+      "type": "suffix",
+      "value": "koronapay.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "koronaperevod.com"
+    },
+    {
+      "type": "suffix",
+      "value": "koronaperevod.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "perevod-korona.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "perevod-korona.info"
+    },
+    {
+      "type": "suffix",
+      "value": "perevod-korona.org"
+    },
+    {
+      "type": "suffix",
+      "value": "perevod-korona.pro"
+    },
+    {
+      "type": "suffix",
+      "value": "perevod-korona.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "perevodkorona.com"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "adfox.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "admetrica.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "naydex.net"
+    },
+    {
+      "type": "suffix",
+      "value": "rostaxi.org"
+    },
+    {
+      "type": "suffix",
+      "value": "turbopages.org"
+    },
+    {
+      "type": "suffix",
+      "value": "webvisor.com"
+    },
+    {
+      "type": "suffix",
+      "value": "webvisor.org"
+    },
+    {
+      "_comment": "яндекс.рф",
+      "type": "suffix",
+      "value": "xn--d1acpjx3f.xn--p1ai"
+    },
+    {
+      "type": "suffix",
+      "value": "ya.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "yads.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex-bank.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex-images.clstorage.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex-team.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.aero"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.az"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.by"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.cloud"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.co.il"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com.am"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com.ge"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com.tr"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.com.ua"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.de"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.ee"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.eu"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.fi"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.fr"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.jobs"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.kg"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.kz"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.lt"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.lv"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.md"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.org"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.pl"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.st"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.sx"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.tj"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.tm"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.tr"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.ua"
+    },
+    {
+      "type": "suffix",
+      "value": "yandex.uz"
+    },
+    {
+      "type": "suffix",
+      "value": "yandexadexchange.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandexcloud.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandexcom.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yandexmetrica.com"
+    },
+    {
+      "type": "suffix",
+      "value": "yandexwebcache.org"
+    },
+    {
+      "type": "suffix",
+      "value": "yastat.net"
+    },
+    {
+      "type": "suffix",
+      "value": "yastatic.net"
+    },
+    {
+      "type": "suffix",
+      "value": "kinopoisk.ru"
+    }
+  ]
+}

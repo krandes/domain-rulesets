@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "beget.com"
+    },
+    {
+      "type": "suffix",
+      "value": "beget.ru"
+    }
+  ]
+}

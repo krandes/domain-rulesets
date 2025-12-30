@@ -1,0 +1,136 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "alfa-bank.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.by"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.financial"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.info"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.net"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.org"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-bank.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-finance.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-fx.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-pc.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa-usa.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa.bank"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa.click"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa.link"
+    },
+    {
+      "type": "suffix",
+      "value": "alfa.me"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.by"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.financial"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.org"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.st"
+    },
+    {
+      "type": "suffix",
+      "value": "alfabank.tv"
+    },
+    {
+      "type": "suffix",
+      "value": "alfafinance.biz"
+    },
+    {
+      "type": "suffix",
+      "value": "alfaforex.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "alfafuture.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfafx.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alfaprivate.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alformacap.com"
+    },
+    {
+      "type": "suffix",
+      "value": "alformacapital.com"
+    },
+    {
+      "type": "suffix",
+      "value": "beta-bank.com"
+    },
+    {
+      "type": "suffix",
+      "value": "svoy.academy"
+    }
+  ]
+}

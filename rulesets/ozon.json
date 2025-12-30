@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "ozon.by"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.com"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.dev"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.kz"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "ozon.travel"
+    },
+    {
+      "type": "suffix",
+      "value": "ozone.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "ozonusercontent.com"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "5ka.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "5post.market"
+    },
+    {
+      "type": "suffix",
+      "value": "chizhik.club"
+    },
+    {
+      "type": "suffix",
+      "value": "clubx5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "dialogx5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "e5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "fivepost.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "idx5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "jx5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "keyx5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "mnogolososya.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "myapelsin.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "okolo.app"
+    },
+    {
+      "type": "suffix",
+      "value": "perekrestok.com"
+    },
+    {
+      "type": "suffix",
+      "value": "perekrestok.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.ai"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.com"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.digital"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.group"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.media"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.team"
+    },
+    {
+      "type": "suffix",
+      "value": "x5.tech"
+    },
+    {
+      "type": "suffix",
+      "value": "x5club.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5id.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5l.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5paket.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5q.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "x5static.net"
+    },
+    {
+      "type": "suffix",
+      "value": "x5w.ru"
+    }
+  ]
+}

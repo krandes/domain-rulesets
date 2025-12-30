@@ -1,0 +1,14 @@
+{
+  "_comment": "Reference: https://en.wikipedia.org/wiki/.by",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "by"
+    },
+    {
+      "_comment": ".бел",
+      "type": "suffix",
+      "value": "xn--90ais"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cdn-vk.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "mradx.net"
+    },
+    {
+      "type": "suffix",
+      "value": "mvk.com"
+    },
+    {
+      "type": "suffix",
+      "value": "userapi.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-analytics.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-apps.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-apps.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-cdn.me"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-cdn.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vk-portal.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.cc"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.company"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.design"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.link"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.me"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vk.team"
+    },
+    {
+      "type": "suffix",
+      "value": "vkcache.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vkcloud-static.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkgo.app"
+    },
+    {
+      "type": "suffix",
+      "value": "vklive.app"
+    },
+    {
+      "type": "suffix",
+      "value": "vkmessenger.app"
+    },
+    {
+      "type": "suffix",
+      "value": "vkmessenger.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vkontakte.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkplay.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuser.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuseraudio.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuseraudio.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuseraudio.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkusercdn.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuserlive.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuserphoto.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuservideo.com"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuservideo.net"
+    },
+    {
+      "type": "suffix",
+      "value": "vkuservideo.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "vkvideo.ru"
+    },
+    {
+      "_comment": "Mail.ru",
+      "type": "suffix",
+      "value": "imgsmail.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "mail.ru"
+    },
+    {
+      "_comment": "Dzen",
+      "type": "suffix",
+      "value": "dzen.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "dzeninfra.ru"
+    },
+    {
+      "_comment": "Odnoklassniki",
+      "type": "suffix",
+      "value": "odnoklassniki.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "ok.ru"
+    },
+    {
+      "type": "suffix",
+      "value": "okcdn.ru"
+    }
+  ]
+}
