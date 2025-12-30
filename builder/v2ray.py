@@ -16,7 +16,7 @@ def save_v2ray_rulesets(rulesets: list[Ruleset], output_dir: str):
 
     for ruleset in rulesets:
         entry = geo_site_list.entry.add()
-        tag = ruleset.name
+        tag = ruleset.name.upper()
 
         entry.country_code = tag
 
@@ -28,7 +28,7 @@ def save_v2ray_rulesets(rulesets: list[Ruleset], output_dir: str):
             if rule.options.attributes:
                 for attribute in rule.options.attributes:
                     attr = domain.attribute.add()
-                    attr.key = attribute.lstrip('@')
+                    attr.key = attribute.lstrip('@').lower()
                     attr.bool_value = True
 
     try:
