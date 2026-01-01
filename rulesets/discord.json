@@ -1,0 +1,117 @@
+{
+  "_comment": "Reference: https://github.com/v2fly/domain-list-community/blob/master/data/discord",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "airhorn.solutions"
+    },
+    {
+      "type": "suffix",
+      "value": "airhornbot.com"
+    },
+    {
+      "type": "suffix",
+      "value": "bigbeans.solutions"
+    },
+    {
+      "type": "suffix",
+      "value": "dis.gd"
+    },
+    {
+      "type": "suffix",
+      "value": "discord-activities.com"
+    },
+    {
+      "type": "full",
+      "value": "discord-attachments-uploads-prd.storage.googleapis.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.co"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.design"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.dev"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.gg"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.gift"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.gifts"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.media"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.new"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.store"
+    },
+    {
+      "type": "suffix",
+      "value": "discord.tools"
+    },
+    {
+      "type": "suffix",
+      "value": "discordactivities.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordapp.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordapp.io"
+    },
+    {
+      "type": "suffix",
+      "value": "discordapp.net"
+    },
+    {
+      "type": "suffix",
+      "value": "discordcdn.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordmerch.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordpartygames.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordsays.com"
+    },
+    {
+      "type": "suffix",
+      "value": "discordstatus.com"
+    },
+    {
+      "type": "full",
+      "value": "hammerandchisel.ssl.zendesk.com"
+    },
+    {
+      "type": "suffix",
+      "value": "watchanimeattheoffice.com"
+    }
+  ]
+}
