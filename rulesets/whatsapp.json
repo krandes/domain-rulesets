@@ -1,0 +1,67 @@
+{
+  "_comment": "Reference: https://github.com/v2fly/domain-list-community/blob/master/data/whatsapp",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "graph.whatsapp.com",
+      "options": {
+        "attributes": [
+          "ads"
+        ]
+      }
+    },
+    {
+      "type": "suffix",
+      "value": "graph.whatsapp.net",
+      "options": {
+        "attributes": [
+          "ads"
+        ]
+      }
+    },
+    {
+      "type": "suffix",
+      "value": "wa.me"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp-plus.info"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp-plus.me"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp-plus.net"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.cc"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.com"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.info"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.net"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.org"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsapp.tv"
+    },
+    {
+      "type": "suffix",
+      "value": "whatsappbrand.com"
+    }
+  ]
+}

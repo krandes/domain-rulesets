@@ -1,0 +1,37 @@
+{
+  "_comment": "Reference: https://github.com/v2fly/domain-list-community/blob/master/data/signal",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "signal.art"
+    },
+    {
+      "type": "suffix",
+      "value": "signal.group"
+    },
+    {
+      "type": "suffix",
+      "value": "signal.link"
+    },
+    {
+      "type": "suffix",
+      "value": "signal.me"
+    },
+    {
+      "type": "suffix",
+      "value": "signal.org"
+    },
+    {
+      "type": "suffix",
+      "value": "signal.tube"
+    },
+    {
+      "type": "suffix",
+      "value": "signalusers.org"
+    },
+    {
+      "type": "suffix",
+      "value": "whispersystems.org"
+    }
+  ]
+}

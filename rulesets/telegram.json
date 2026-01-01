@@ -1,0 +1,81 @@
+{
+  "_comment": "Reference: https://github.com/v2fly/domain-list-community/blob/master/data/telegram",
+  "rules": [
+    {
+      "type": "suffix",
+      "value": "cdn-telegram.org"
+    },
+    {
+      "type": "suffix",
+      "value": "comments.app"
+    },
+    {
+      "type": "suffix",
+      "value": "contest.com"
+    },
+    {
+      "type": "suffix",
+      "value": "fragment.com"
+    },
+    {
+      "type": "suffix",
+      "value": "graph.org"
+    },
+    {
+      "type": "suffix",
+      "value": "quiz.directory"
+    },
+    {
+      "type": "suffix",
+      "value": "t.me"
+    },
+    {
+      "type": "suffix",
+      "value": "tdesktop.com"
+    },
+    {
+      "type": "suffix",
+      "value": "telega.one"
+    },
+    {
+      "type": "suffix",
+      "value": "telegra.ph"
+    },
+    {
+      "type": "suffix",
+      "value": "telegram-cdn.org"
+    },
+    {
+      "type": "suffix",
+      "value": "telegram.dog"
+    },
+    {
+      "type": "suffix",
+      "value": "telegram.me"
+    },
+    {
+      "type": "suffix",
+      "value": "telegram.org"
+    },
+    {
+      "type": "suffix",
+      "value": "telegram.space"
+    },
+    {
+      "type": "suffix",
+      "value": "telesco.pe"
+    },
+    {
+      "type": "suffix",
+      "value": "tg.dev"
+    },
+    {
+      "type": "suffix",
+      "value": "tx.me"
+    },
+    {
+      "type": "suffix",
+      "value": "usercontent.dev"
+    }
+  ]
+}
