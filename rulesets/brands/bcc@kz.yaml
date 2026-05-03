@@ -1,0 +1,4 @@
+name: bcc@kz
+rules:
+  - type: suffix
+    value: bcc.kz

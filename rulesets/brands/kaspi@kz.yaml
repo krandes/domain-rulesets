@@ -1,0 +1,6 @@
+name: kaspi@kz
+rules:
+  - type: suffix
+    value: cdn-kaspi.kz
+  - type: suffix
+    value: kaspi.kz

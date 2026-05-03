@@ -1,0 +1,4 @@
+name: ruvds
+rules:
+  - type: suffix
+    value: ruvds.com

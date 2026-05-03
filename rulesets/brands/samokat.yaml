@@ -1,0 +1,4 @@
+name: samokat
+rules:
+  - type: suffix
+    value: samokat.ru

@@ -1,0 +1,8 @@
+name: aviasales
+rules:
+  - type: suffix
+    value: aviasales.com
+  - type: suffix
+    value: aviasales.ru
+  - type: suffix
+    value: avs.io

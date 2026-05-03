@@ -1,0 +1,4 @@
+name: berekebank@kz
+rules:
+  - type: suffix
+    value: berekebank.kz

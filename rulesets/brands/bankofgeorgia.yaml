@@ -1,0 +1,8 @@
+name: bankofgeorgia
+rules:
+  - type: suffix
+    value: bankofgeorgia.ge
+  - type: suffix
+    value: bog.ge
+  - type: suffix
+    value: solo.ge

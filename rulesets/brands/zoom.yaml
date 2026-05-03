@@ -1,0 +1,8 @@
+name: zoom
+rules:
+  - type: suffix
+    value: zoom.com
+  - type: suffix
+    value: zoom.com.cn
+  - type: suffix
+    value: zoom.us

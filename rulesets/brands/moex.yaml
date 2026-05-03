@@ -1,0 +1,4 @@
+name: moex
+rules:
+  - type: suffix
+    value: moex.com

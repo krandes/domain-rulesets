@@ -1,0 +1,10 @@
+name: 2ch
+rules:
+  - type: suffix
+    value: 2ch.hk
+  - type: suffix
+    value: 2ch.life
+  - type: suffix
+    value: 2ch.org
+  - type: suffix
+    value: 2ch.su

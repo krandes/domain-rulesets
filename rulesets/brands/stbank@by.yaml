@@ -1,0 +1,6 @@
+name: stbank@by
+rules:
+  - type: suffix
+    value: stb24.by
+  - type: suffix
+    value: stbank.by

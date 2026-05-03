@@ -1,0 +1,4 @@
+name: koshelek
+rules:
+  - type: suffix
+    value: koshelek.app

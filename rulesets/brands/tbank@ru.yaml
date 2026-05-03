@@ -1,0 +1,74 @@
+name: tbank@ru
+rules:
+  - type: suffix
+    value: 3ds-secure-payment.com
+  - type: suffix
+    value: bankline.ru
+  - type: suffix
+    value: billapp.org
+  - type: suffix
+    value: cdn-tinkoff.ru
+  - type: suffix
+    value: data-tcsbank.ru
+  - type: suffix
+    value: eginvestments.net
+  - type: suffix
+    value: jump.finance
+  - type: suffix
+    value: posl-t.org
+  - type: suffix
+    value: rosbank.ru
+  - type: suffix
+    value: securetpayment.com
+  - type: suffix
+    value: srv-hub.org
+  - type: suffix
+    value: t-avia.org
+  - type: suffix
+    value: t-bank-app.ru
+  - type: suffix
+    value: t-bank-app.su
+  - type: suffix
+    value: t-capy.org
+  - type: suffix
+    value: t-gorod.org
+  - type: suffix
+    value: t-static.ru
+  - type: suffix
+    value: t-tech.ru
+  - type: suffix
+    value: t-tech.team
+  - type: suffix
+    value: t-technologies.ru
+  - type: suffix
+    value: t-tps.org
+  - type: suffix
+    value: t.finance
+  - type: suffix
+    value: tbank-online.com
+  - type: suffix
+    value: tbank.ru
+  - type: suffix
+    value: tcsbank.ru
+  - type: suffix
+    value: tinkoff.ru
+  - type: suffix
+    value: tinkoff-edu.ru
+  - type: suffix
+    value: tinkoffinsurance.ru
+  - type: suffix
+    value: tinsurance.ru
+  - type: suffix
+    value: womba-t.org
+  - type: suffix
+    value: za-group.net
+  # T-J
+  - type: suffix
+    value: t-j.ru
+  - type: suffix
+    value: tinkoffjournal.ru
+  # Dolyame
+  - type: suffix
+    value: dolyame.com
+  - type: suffix
+    value: dolyame.ru

@@ -1,0 +1,8 @@
+name: vc@ru
+rules:
+  - type: suffix
+    value: booster.osnova.io
+  - type: suffix
+    value: leonardo.osnova.io
+  - type: suffix
+    value: vc.ru

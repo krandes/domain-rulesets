@@ -1,0 +1,10 @@
+name: selectel
+rules:
+  - type: suffix
+    value: selcloud.ru
+  - type: suffix
+    value: selectel.com
+  - type: suffix
+    value: selectel.ru
+  - type: suffix
+    value: srvstorage.kz

@@ -1,0 +1,6 @@
+name: altynbank@kz
+rules:
+  - type: suffix
+    value: altyn-i.kz
+  - type: suffix
+    value: altynbank.kz

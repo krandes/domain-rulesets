@@ -1,0 +1,4 @@
+name: emias
+rules:
+  - type: suffix
+    value: emias.info

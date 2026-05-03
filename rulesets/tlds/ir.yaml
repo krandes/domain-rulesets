@@ -1,0 +1,8 @@
+name: tlds-ir
+rules:
+  - type: suffix
+    value: ir
+  - type: suffix
+    value: xn--mgba3a4f16a # .ایران
+  - type: suffix
+    value: xn--mgba3a4fra # .ايران

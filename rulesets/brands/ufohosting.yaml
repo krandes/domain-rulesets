@@ -1,0 +1,4 @@
+name: ufohosting
+rules:
+  - type: suffix
+    value: ufo.hosting

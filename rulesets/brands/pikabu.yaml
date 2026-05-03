@@ -1,0 +1,4 @@
+name: pikabu
+rules:
+  - type: suffix
+    value: pikabu.ru

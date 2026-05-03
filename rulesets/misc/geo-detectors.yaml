@@ -1,0 +1,309 @@
+# https://github.com/v2fly/domain-list-community/blob/master/data/category-ip-geo-detect
+name: geo-detectors
+rules:
+  - type: suffix
+    value: 2ip.io
+  - type: suffix
+    value: 2ip.ru
+  - type: suffix
+    value: 2ip.ua
+  - type: suffix
+    value: 51degrees.com
+  - type: suffix
+    value: abstractapi.com
+  - type: suffix
+    value: apiip.net
+  - type: suffix
+    value: apivoid.com
+  - type: suffix
+    value: bigdatacloud.net
+  - type: suffix
+    value: check-host.net
+  - type: full
+    value: checkip.amazonaws.com
+  - type: full
+    value: checkip.dyn.com
+  - type: full
+    value: checkip.dyndns.org
+  - type: suffix
+    value: checkip.org
+  - type: suffix
+    value: checkip.ru
+  - type: suffix
+    value: country.is
+  - type: suffix
+    value: curlmyip.net
+  - type: suffix
+    value: dadata.ru
+  - type: suffix
+    value: db-ip.com
+  - type: suffix
+    value: extreme-ip-lookup.com
+  - type: suffix
+    value: find-my-ip.com
+  - type: suffix
+    value: find-my-ip.net
+  - type: suffix
+    value: findip.net
+  - type: suffix
+    value: flagfox.net
+  - type: suffix
+    value: fraudguard.io
+  - type: suffix
+    value: fraudlogix.com
+  - type: suffix
+    value: freegeoip.app
+  - type: suffix
+    value: freeipapi.com
+  - type: suffix
+    value: geodatatool.com
+  - type: suffix
+    value: geoip.noc.gov.ru
+  - type: suffix
+    value: geojs.io
+  - type: suffix
+    value: geolocation-db.com
+  - type: suffix
+    value: geoplugin.com
+  - type: suffix
+    value: geoplugin.net
+  - type: suffix
+    value: getipintel.net
+  - type: suffix
+    value: greip.io
+  - type: suffix
+    value: hackertarget.com
+  - type: suffix
+    value: httpbin.org
+  - type: suffix
+    value: icanhazip.com
+  - type: suffix
+    value: ident.me
+  - type: suffix
+    value: ifconfig.co
+  - type: suffix
+    value: ifconfig.es
+  - type: suffix
+    value: ifconfig.io
+  - type: suffix
+    value: ifconfig.me
+  - type: suffix
+    value: ip2c.org
+  - type: suffix
+    value: ip2location.com
+  - type: suffix
+    value: ip2location.io
+  - type: suffix
+    value: ip2ruscity.com
+  - type: suffix
+    value: ip4.me
+  - type: suffix
+    value: ip6.me
+  - type: suffix
+    value: ip6only.me
+  - type: suffix
+    value: ip8.com
+  - type: suffix
+    value: ip-adress.com
+  - type: suffix
+    value: ip-api.com
+  - type: suffix
+    value: ip-api.io
+  - type: suffix
+    value: ip-api.ru
+  - type: suffix
+    value: ip-check.info
+  - type: suffix
+    value: ip-score.com
+  - type: suffix
+    value: ip.comss.net
+  - type: suffix
+    value: ip.hetzner.com
+  - type: suffix
+    value: ip.mail.ru
+  - type: suffix
+    value: ip.me
+  - type: suffix
+    value: ip.nic.ru
+  - type: suffix
+    value: ip.pe.kr
+  - type: suffix
+    value: ip.sb
+  - type: suffix
+    value: ip.tyk.nu
+  - type: suffix
+    value: ipaddr.site
+  - type: suffix
+    value: ipaddress.com
+  - type: suffix
+    value: ipaddress.my
+  - type: suffix
+    value: ipaddress.sh
+  - type: suffix
+    value: ipapi.co
+  - type: suffix
+    value: ipapi.com
+  - type: suffix
+    value: ipapi.is
+  - type: suffix
+    value: ipbase.com
+  - type: suffix
+    value: ipcalf.com
+  - type: suffix
+    value: ipchicken.com
+  - type: suffix
+    value: ipdata.co
+  - type: suffix
+    value: ipecho.net
+  - type: suffix
+    value: ipfind.io
+  - type: suffix
+    value: ipfinder.io
+  - type: suffix
+    value: ipgeo.vercel.app
+  - type: suffix
+    value: ipgeolocation.io
+  - type: suffix
+    value: ipify.org
+  - type: suffix
+    value: ipinfo.io
+  - type: suffix
+    value: ipip.net
+  - type: suffix
+    value: iplark.com
+  - type: suffix
+    value: ipleak.net
+  - type: suffix
+    value: ipligence.com
+  - type: suffix
+    value: iplocate.io
+  - type: suffix
+    value: iplocation.com
+  - type: suffix
+    value: iplocation.io
+  - type: suffix
+    value: iplocation.net
+  - type: suffix
+    value: ipqualityscore.com
+  - type: suffix
+    value: ipquery.io
+  - type: suffix
+    value: ipregistry.co
+  - type: suffix
+    value: iproyal.com
+  - type: suffix
+    value: ipstack.com
+  - type: full
+    value: ipv4-check-perf.radar.cloudflare.com
+  - type: suffix
+    value: ipv4-internet.yandex.net
+  - type: full
+    value: ipv6-check-perf.radar.cloudflare.com
+  - type: suffix
+    value: ipv6-internet.yandex.net
+  - type: suffix
+    value: ipverify.com
+  - type: suffix
+    value: ipw.cn
+  - type: suffix
+    value: ipwho.is
+  - type: suffix
+    value: ipwhois.io
+  - type: suffix
+    value: ipxapi.com
+  - type: suffix
+    value: l2.io
+  - type: suffix
+    value: maxmind.com
+  - type: suffix
+    value: mon-ip.com
+  - type: suffix
+    value: monip.org
+  - type: suffix
+    value: my-ip.io
+  - type: suffix
+    value: my.ipinfo.app
+  - type: suffix
+    value: myexternalip.com
+  - type: suffix
+    value: myip.com
+  - type: suffix
+    value: myip.expert
+  - type: suffix
+    value: myip.la
+  - type: suffix
+    value: myip.ms
+  - type: suffix
+    value: myip.ru
+  - type: suffix
+    value: myip.wtf
+  - type: suffix
+    value: myipaddress.com
+  - type: suffix
+    value: myiplookup.com
+  - type: suffix
+    value: mylocation.org
+  - type: suffix
+    value: nodedata.io
+  - type: suffix
+    value: osint.sh
+  - type: suffix
+    value: proxycheck.io
+  - type: suffix
+    value: realip.cc
+  - type: suffix
+    value: seeip.org
+  - type: suffix
+    value: showip.net
+  - type: suffix
+    value: showmyip.com
+  - type: suffix
+    value: showmyipaddress.com
+  - type: suffix
+    value: spur.us
+  - type: suffix
+    value: sxgeo.city
+  - type: suffix
+    value: sypexgeo.net
+  - type: suffix
+    value: tnx.nl
+  - type: suffix
+    value: tracemyip.org
+  - type: suffix
+    value: trustmyip.com
+  - type: suffix
+    value: wgetip.com
+  - type: full
+    value: whatismyip.akamai.com
+  - type: suffix
+    value: whatismyip.com
+  - type: suffix
+    value: whatismyip.net
+  - type: suffix
+    value: whatismyip.org
+  - type: suffix
+    value: whatismyipaddress.com
+  - type: suffix
+    value: whatismyipaddress.net
+  - type: suffix
+    value: whatismyisp.com
+  - type: suffix
+    value: whatismyv6.com
+  - type: suffix
+    value: whatsmyip.com
+  - type: suffix
+    value: whatsmyip.org
+  - type: suffix
+    value: where-am-i.co
+  - type: suffix
+    value: whoer.net
+  - type: suffix
+    value: whoerip.com
+  - type: suffix
+    value: whois.pconline.com.cn
+  - type: suffix
+    value: whoisxmlapi.com
+  - type: suffix
+    value: wieistmeineip.de
+  - type: suffix
+    value: wtfismyip.com

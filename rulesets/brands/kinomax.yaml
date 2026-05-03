@@ -1,0 +1,4 @@
+name: kinomax
+rules:
+  - type: suffix
+    value: kinomax.ru

@@ -1,0 +1,7 @@
+# https://en.wikipedia.org/wiki/.kz
+name: tlds-kz
+rules:
+  - type: suffix
+    value: kz
+  - type: suffix
+    value: xn--80ao21a # .қаз
