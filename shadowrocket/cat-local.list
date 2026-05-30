@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localdomain
 DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,test
-DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-DOMAIN-SUFFIX,0.in-addr.arpa
 DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 DOMAIN-SUFFIX,2.0.192.in-addr.arpa
 DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa
@@ -107,6 +105,8 @@ DOMAIN-SUFFIX,124.100.in-addr.arpa
 DOMAIN-SUFFIX,125.100.in-addr.arpa
 DOMAIN-SUFFIX,126.100.in-addr.arpa
 DOMAIN-SUFFIX,127.100.in-addr.arpa
+DOMAIN,local.adguard.org
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,asusrouter.com
@@ -118,7 +118,6 @@ DOMAIN,www.routerlogin.com
 DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
-DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,tplinkwifi.net
 DOMAIN,tplogin.cn
