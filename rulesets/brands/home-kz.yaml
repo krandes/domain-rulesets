@@ -1,0 +1,6 @@
+name: home-kz
+rules:
+  - type: suffix
+    value: home.kz
+  - type: suffix
+    value: homecredit.kz

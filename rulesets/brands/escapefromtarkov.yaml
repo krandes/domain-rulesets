@@ -1,0 +1,10 @@
+name: escapefromtarkov
+rules:
+  - type: suffix
+    value: eft-store.com
+  - type: suffix
+    value: escapefromtarkov.com
+  - type: suffix
+    value: escapefromtarkov.ru
+  - type: suffix
+    value: tarkov.com

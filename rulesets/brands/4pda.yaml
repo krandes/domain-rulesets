@@ -1,0 +1,4 @@
+name: 4pda
+rules:
+  - type: suffix
+    value: 4pda.to

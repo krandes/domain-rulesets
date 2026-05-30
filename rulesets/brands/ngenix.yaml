@@ -1,0 +1,4 @@
+name: ngenix
+rules:
+  - type: suffix
+    value: ngenix.net

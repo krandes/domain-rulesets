@@ -1,0 +1,4 @@
+name: zvuk
+rules:
+  - type: suffix
+    value: zvuk.com

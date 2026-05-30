@@ -1,0 +1,8 @@
+name: amediateka
+rules:
+  - type: suffix
+    value: amediateka.com
+  - type: suffix
+    value: amediateka.ru
+  - type: suffix
+    value: amediateka.tech

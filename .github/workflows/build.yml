@@ -6,8 +6,9 @@ on:
       - main
     paths:
       - 'rulesets/**'
-      - 'builder/**'
-      - 'main.py'
+      - 'src/**'
+      - '**/*.csproj'
+      - '**/*.sln'
 
 jobs:
   build-and-deploy:
@@ -16,30 +17,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up .NET SDK
+        uses: actions/setup-dotnet@v4
         with:
-          python-version: '3.13'
+          dotnet-version: '10.0.x'
 
-      - name: Install dependencies
+      - name: Restore NuGet dependencies
+        run: dotnet restore
+
+      - name: Export rulesets
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          dotnet run --project ./src/DomainRulesets.ConsoleApp/DomainRulesets.ConsoleApp.csproj -c Release -- \
+            -f shadowrocket v2ray \
+            -i ./rulesets \
+            -o ./release
 
-      - name: Build rulesets
-        run: |
-          python main.py -f="v2ray,shadowrocket" -i="./rulesets" -o="./release"
-
-      - name: Deploy to release branch
+      - name: Publish rulesets to release branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./release
           publish_branch: release
-          force_push: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: "Build rulesets: ${{ github.sha }}"
+          commit_message: "Publish rulesets from ${{ github.sha }}"

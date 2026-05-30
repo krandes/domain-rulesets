@@ -1,0 +1,4 @@
+name: bankcentercredit
+rules:
+  - type: suffix
+    value: bcc.kz

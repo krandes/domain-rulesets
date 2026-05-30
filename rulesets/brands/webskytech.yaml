@@ -1,0 +1,8 @@
+name: webskytech
+rules:
+  - type: suffix
+    value: websky.aero
+  - type: suffix
+    value: websky.tech
+  - type: suffix
+    value: wst.kz

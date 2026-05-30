@@ -1,0 +1,8 @@
+name: freedombank
+rules:
+  - type: suffix
+    value: bankffin.kz
+  - type: suffix
+    value: f.bank
+  - type: suffix
+    value: freedombank.kz

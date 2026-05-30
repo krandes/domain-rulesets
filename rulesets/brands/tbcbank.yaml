@@ -1,0 +1,8 @@
+name: tbcbank
+rules:
+  - type: suffix
+    value: tbcbank.ge
+  - type: suffix
+    value: tbc.ge
+  - type: suffix
+    value: tbconline.ge

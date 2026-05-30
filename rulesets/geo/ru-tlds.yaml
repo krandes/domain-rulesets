@@ -1,0 +1,28 @@
+name: cat-geo-ru-tlds
+rules:
+  - type: suffix
+    value: moscow
+  - type: suffix
+    value: ru
+  - type: suffix
+    value: su
+  - type: suffix
+    value: tatar
+  - type: suffix
+    value: xn--80adxhks # .москва
+  - type: suffix
+    value: xn--80asehdb # .онлайн
+  - type: suffix
+    value: xn--80aswg # .сайт
+  - type: suffix
+    value: xn--c1avg # .орг
+  - type: suffix
+    value: xn--d1acj3b # .дети
+  - type: suffix
+    value: xn--p1acf # .рус
+  - type: suffix
+    value: xn--p1ai # .рф
+  - type: suffix
+    value: ru.com
+  - type: suffix
+    value: ru.net

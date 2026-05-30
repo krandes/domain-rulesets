@@ -1,0 +1,7 @@
+# https://en.wikipedia.org/wiki/.kz
+name: cat-geo-kz-tlds
+rules:
+  - type: suffix
+    value: kz
+  - type: suffix
+    value: xn--80ao21a # .қаз

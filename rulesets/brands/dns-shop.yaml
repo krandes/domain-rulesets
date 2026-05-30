@@ -1,0 +1,6 @@
+name: dns-shop
+rules:
+  - type: suffix
+    value: dns-shop.kz
+  - type: suffix
+    value: dns-shop.ru

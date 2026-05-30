@@ -1,0 +1,6 @@
+name: ostrovok
+rules:
+  - type: suffix
+    value: fastrovok.net
+  - type: suffix
+    value: ostrovok.ru

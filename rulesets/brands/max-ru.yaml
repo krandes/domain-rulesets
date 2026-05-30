@@ -1,0 +1,4 @@
+name: max-ru
+rules:
+  - type: suffix
+    value: max.ru

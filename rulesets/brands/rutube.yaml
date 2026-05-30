@@ -1,0 +1,8 @@
+name: rutube
+rules:
+  - type: suffix
+    value: rutube.ru
+  - type: suffix
+    value: rutubelist.ru
+  - type: suffix
+    value: rtbcdn.ru

@@ -1,0 +1,4 @@
+name: berekebank
+rules:
+  - type: suffix
+    value: berekebank.kz

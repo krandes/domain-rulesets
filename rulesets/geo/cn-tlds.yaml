@@ -1,0 +1,86 @@
+name: cat-geo-cn-tlds
+rules:
+  - type: suffix
+    value: alibaba
+  - type: suffix
+    value: alipay
+  - type: suffix
+    value: baidu
+  - type: suffix
+    value: citic
+  - type: suffix
+    value: cn
+  - type: suffix
+    value: icbc
+  - type: suffix
+    value: sohu
+  - type: suffix
+    value: taobao
+  - type: suffix
+    value: tmall
+  - type: suffix
+    value: unicom
+  - type: suffix
+    value: xn--1qqw23a # .佛山
+  - type: suffix
+    value: xn--3bst00m # .集团
+  - type: suffix
+    value: xn--3ds443g # .在线
+  - type: suffix
+    value: xn--5tzm5g # .网站
+  - type: suffix
+    value: xn--6frz82g # .移动
+  - type: suffix
+    value: xn--6qq986b3xl # .我爱你
+  - type: suffix
+    value: xn--8y0a063a # .联通
+  - type: suffix
+    value: xn--9et52u # .时尚
+  - type: suffix
+    value: xn--55qw42g # .公益
+  - type: suffix
+    value: xn--55qx5d # .公司
+  - type: suffix
+    value: xn--czr694b # .商标
+  - type: suffix
+    value: xn--czrs0t # .商店
+  - type: suffix
+    value: xn--czru2d # .商城
+  - type: suffix
+    value: xn--fiq64b # .中信
+  - type: suffix
+    value: xn--fiq228c5hs # .中文网
+  - type: suffix
+    value: xn--fiqs8s # .中国
+  - type: suffix
+    value: xn--fiqz9s # .中國
+  - type: suffix
+    value: xn--fjq720a # .娱乐
+  - type: suffix
+    value: xn--g2xx48c # .购物
+  - type: suffix
+    value: xn--hxt814e # .网店
+  - type: suffix
+    value: xn--imr513n # .餐厅
+  - type: suffix
+    value: xn--io0a7i # .网络
+  - type: suffix
+    value: xn--kput3i # .手机
+  - type: suffix
+    value: xn--nyqy26a # .健康
+  - type: suffix
+    value: xn--otu796d # .招聘
+  - type: suffix
+    value: xn--rhqv96g # .世界
+  - type: suffix
+    value: xn--ses554g # .网址
+  - type: suffix
+    value: xn--unup4y # .游戏
+  - type: suffix
+    value: xn--vhquv # .企业
+  - type: suffix
+    value: xn--vuq861b # .信息
+  - type: suffix
+    value: xn--xhq521b # .广东
+  - type: suffix
+    value: xn--zfr164b # .政务

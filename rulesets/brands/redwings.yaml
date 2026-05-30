@@ -1,0 +1,4 @@
+name: redwings
+rules:
+  - type: suffix
+    value: flyredwings.com
