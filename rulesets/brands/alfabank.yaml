@@ -1,7 +1,9 @@
-name: alfabank@ru
+name: alfabank
 rules:
   - type: suffix
     value: alfa-bank.biz
+  - type: suffix
+    value: alfa-bank.by
   - type: suffix
     value: alfa-bank.com
   - type: suffix
@@ -32,6 +34,8 @@ rules:
     value: alfa.me
   - type: suffix
     value: alfabank.biz
+  - type: suffix
+    value: alfabank.by
   - type: suffix
     value: alfabank.com
   - type: suffix

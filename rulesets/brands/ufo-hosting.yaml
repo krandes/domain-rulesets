@@ -1,4 +1,4 @@
-name: ufohosting
+name: ufo-hosting
 rules:
   - type: suffix
     value: ufo.hosting

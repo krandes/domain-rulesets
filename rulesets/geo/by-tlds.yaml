@@ -1,5 +1,5 @@
 # https://en.wikipedia.org/wiki/.by
-name: tlds-by
+name: cat-geo-by-tlds
 rules:
   - type: suffix
     value: by

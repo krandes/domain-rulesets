@@ -1,5 +1,5 @@
 # https://github.com/v2fly/domain-list-community/blob/master/data/category-ip-geo-detect
-name: geo-detectors
+name: cat-ip-checkers
 rules:
   - type: suffix
     value: 2ip.io
@@ -148,6 +148,8 @@ rules:
   - type: suffix
     value: ipbase.com
   - type: suffix
+    value: ipbot.com
+  - type: suffix
     value: ipcalf.com
   - type: suffix
     value: ipchicken.com
@@ -163,6 +165,8 @@ rules:
     value: ipgeo.vercel.app
   - type: suffix
     value: ipgeolocation.io
+  - type: suffix
+    value: ipify.cn
   - type: suffix
     value: ipify.org
   - type: suffix
@@ -184,6 +188,8 @@ rules:
   - type: suffix
     value: iplocation.net
   - type: suffix
+    value: iplookup.it
+  - type: suffix
     value: ipqualityscore.com
   - type: suffix
     value: ipquery.io
@@ -197,10 +203,14 @@ rules:
     value: ipv4-check-perf.radar.cloudflare.com
   - type: suffix
     value: ipv4-internet.yandex.net
+  - type: suffix
+    value: ipv4.internet.yandex.net
   - type: full
     value: ipv6-check-perf.radar.cloudflare.com
   - type: suffix
     value: ipv6-internet.yandex.net
+  - type: suffix
+    value: ipv6.internet.yandex.net
   - type: suffix
     value: ipverify.com
   - type: suffix

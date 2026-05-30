@@ -1,4 +1,4 @@
-name: bcc@kz
+name: bankcentercredit
 rules:
   - type: suffix
     value: bcc.kz

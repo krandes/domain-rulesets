@@ -1,4 +1,4 @@
-name: cloud@ru
+name: cloud-ru
 rules:
   - type: suffix
     value: cloud.ru

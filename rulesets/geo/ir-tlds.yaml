@@ -1,4 +1,4 @@
-name: tlds-ir
+name: cat-geo-ir-tlds
 rules:
   - type: suffix
     value: ir

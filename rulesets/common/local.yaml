@@ -1,5 +1,5 @@
 # https://github.com/v2fly/domain-list-community/blob/master/data/private
-name: private
+name: cat-local
 rules:
   - type: suffix
     value: example
@@ -215,22 +215,28 @@ rules:
     value: 126.100.in-addr.arpa
   - type: suffix
     value: 127.100.in-addr.arpa
-  # Aruba router
+  # AdGuard
+  - type: full
+    value: local.adguard.org
+  # Kaspersky
+  - type: suffix
+    value: kis.v2.scr.kaspersky-labs.com
+  # Aruba
   - type: full
     value: instant.arubanetworks.com
   - type: full
     value: setmeup.arubanetworks.com
-  # ASUS router
+  # ASUS
   - type: full
     value: asusrouter.com
   - type: full
     value: router.asus.com
   - type: full
     value: www.asusrouter.com
-  # H3C router
+  # H3C
   - type: full
     value: oasisauth.h3c.com
-  # NETGEAR router
+  # NETGEAR
   - type: full
     value: routerlogin.com
   - type: full
@@ -243,20 +249,20 @@ rules:
     value: localhost.sec.qq.com
   - type: suffix
     value: localhost.ptlogin2.qq.com
-  # Tenda router
+  # Tenda
   - type: suffix
     value: tendawifi.com
-  # TP-Link router
+  # TP-Link
   - type: suffix
     value: tplinkwifi.net
   - type: full
     value: tplogin.cn
-  # Xiaomi router
+  # Xiaomi
   - type: full
     value: miwifi.com
   - type: full
     value: www.miwifi.com
-  # ZTE router
+  # ZTE
   - type: suffix
     value: zte.home
   # Tailscale Magic DNS

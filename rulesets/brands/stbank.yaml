@@ -1,4 +1,4 @@
-name: stbank@by
+name: stbank
 rules:
   - type: suffix
     value: stb24.by

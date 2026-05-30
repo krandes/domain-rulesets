@@ -1,4 +1,4 @@
-name: tlds-cn
+name: cat-geo-cn-tlds
 rules:
   - type: suffix
     value: alibaba

@@ -1,5 +1,5 @@
 # https://en.wikipedia.org/wiki/.kz
-name: tlds-kz
+name: cat-geo-kz-tlds
 rules:
   - type: suffix
     value: kz

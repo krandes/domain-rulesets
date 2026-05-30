@@ -1,17 +1,18 @@
-name: geo-ru
+name: cat-geo-ru
 includes:
   - 2ch
   - 2gis
   - 4pda
-  - alfabank@ru
+  - alfabank
   - amediateka
   - aviasales
   - avito
   - beget
+  - cat-geo-ru-tlds
   - cian
-  - cinema5@ru
+  - cinema5
   - cloud4box
-  - cloud@ru
+  - cloud-ru
   - dns-shop
   - emias
   - escapefromtarkov
@@ -20,11 +21,11 @@ includes:
   - ixbt
   - kaspersky
   - kinomax
-  - kk@ru
+  - kk-ru
   - koronapay
   - koshelek
   - kuper
-  - max@ru
+  - max-ru
   - megamarket
   - moex
   - nationalclearingcentre
@@ -42,11 +43,10 @@ includes:
   - sber
   - selectel
   - sovcombank
-  - tbank@ru
+  - tbank
   - timeweb
-  - tlds-ru
-  - ufohosting
-  - vc@ru
+  - ufo-hosting
+  - vc-ru
   - vk
   - vtb
   - webskytech

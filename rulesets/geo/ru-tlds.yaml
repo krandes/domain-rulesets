@@ -1,4 +1,4 @@
-name: tlds-ru
+name: cat-geo-ru-tlds
 rules:
   - type: suffix
     value: moscow

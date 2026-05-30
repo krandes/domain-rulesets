@@ -1,4 +1,4 @@
-name: vc@ru
+name: vc-ru
 rules:
   - type: suffix
     value: booster.osnova.io

@@ -1,4 +1,4 @@
-name: max@ru
+name: max-ru
 rules:
   - type: suffix
     value: max.ru

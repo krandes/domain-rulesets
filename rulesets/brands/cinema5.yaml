@@ -1,4 +1,4 @@
-name: cinema5@ru
+name: cinema5
 rules:
   - type: suffix
     value: cinema5.ru

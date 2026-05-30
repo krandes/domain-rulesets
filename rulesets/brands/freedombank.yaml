@@ -1,4 +1,4 @@
-name: freedombank@kz
+name: freedombank
 rules:
   - type: suffix
     value: bankffin.kz

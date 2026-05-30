@@ -1,4 +1,4 @@
-name: altynbank@kz
+name: altynbank
 rules:
   - type: suffix
     value: altyn-i.kz
