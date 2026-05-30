@@ -1,4 +1,4 @@
-name: Build and Deploy Rulesets
+name: Publish rulesets
 
 on:
   push:
@@ -11,7 +11,7 @@ on:
       - '**/*.sln'
 
 jobs:
-  build-and-deploy:
+  publish:
     runs-on: ubuntu-latest
     permissions:
       contents: write
