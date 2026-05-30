@@ -17,31 +17,30 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up .NET
+      - name: Set up .NET SDK
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '10.0.x'
 
-      - name: Restore dependencies
+      - name: Restore NuGet dependencies
         run: dotnet restore
 
-      - name: Build and Run Builder
+      - name: Export rulesets
         run: |
           dotnet run --project ./src/DomainRulesets.ConsoleApp/DomainRulesets.ConsoleApp.csproj -c Release -- \
             -f shadowrocket v2ray \
             -i ./rulesets \
             -o ./release
 
-      - name: Deploy to release branch
+      - name: Publish rulesets to release branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./release
           publish_branch: release
-          force_push: true
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: "Build rulesets: ${{ github.sha }}"
+          commit_message: "Publish rulesets from ${{ github.sha }}"
