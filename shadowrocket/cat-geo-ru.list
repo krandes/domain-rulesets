@@ -214,8 +214,11 @@ DOMAIN-SUFFIX,rtbcdn.ru
 DOMAIN-SUFFIX,ruvds.com
 DOMAIN-SUFFIX,s7.ru
 DOMAIN-SUFFIX,s7cdn.online
+DOMAIN-SUFFIX,jazz.sber.ru
+DOMAIN-SUFFIX,salutejazz.ru
 DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,aihome.dev
+DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,oidconnect.com
 DOMAIN-SUFFIX,polly.events
 DOMAIN-SUFFIX,sber-bank.by
@@ -366,9 +369,6 @@ DOMAIN-SUFFIX,vtbindia.com
 DOMAIN-SUFFIX,vtbmobile.ru
 DOMAIN-SUFFIX,vtbnpf.ru
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
-DOMAIN-SUFFIX,websky.aero
-DOMAIN-SUFFIX,websky.tech
-DOMAIN-SUFFIX,wst.kz
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,wink.ru
 DOMAIN-SUFFIX,5ka.ru
