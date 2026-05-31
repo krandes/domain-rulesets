@@ -1,15 +1,15 @@
-using System.ComponentModel.DataAnnotations;
-using DomainRulesets.ConsoleApp.Enums;
+using DomainRulesets.Enums;
+using DomainRulesets.Exceptions;
 
-namespace DomainRulesets.ConsoleApp.Models;
+namespace DomainRulesets.Models;
 
 public sealed record Rule
 {
-    public RuleType Type { get; init; }
+    public RuleType Type { get; private init; }
 
-    public string Value { get; init; } = null!;
+    public string Value { get; private init; } = null!;
     
-    public RuleOptions? Options { get; init; }
+    public RuleOptions? Options { get; private init; }
     
     public Rule(RuleType type, string value, RuleOptions? options)
     {

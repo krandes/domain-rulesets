@@ -1,12 +1,12 @@
-using DomainRulesets.ConsoleApp.Constants;
-using DomainRulesets.ConsoleApp.Enums;
-using DomainRulesets.ConsoleApp.Models;
-using DomainRulesets.ConsoleApp.Services.Interfaces;
+using DomainRulesets.Constants;
+using DomainRulesets.Enums;
+using DomainRulesets.Models;
+using DomainRulesets.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 
-namespace DomainRulesets.ConsoleApp.Services;
+namespace DomainRulesets.Services;
 
-public class ShadowrocketRulesetExporter(ILogger<ShadowrocketRulesetExporter> logger) : IRulesetExporter
+internal sealed class ShadowrocketRulesetExporter(ILogger<ShadowrocketRulesetExporter> logger) : IRulesetExporter
 {
     public string FormatName => ExportFormats.Shadowrocket;
 

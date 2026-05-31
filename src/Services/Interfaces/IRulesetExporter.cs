@@ -1,6 +1,6 @@
-using DomainRulesets.ConsoleApp.Models;
+using DomainRulesets.Models;
 
-namespace DomainRulesets.ConsoleApp.Services.Interfaces;
+namespace DomainRulesets.Services.Interfaces;
 
 public interface IRulesetExporter
 {

@@ -8,8 +8,7 @@ Rulesets are authored as human-friendly YAML files and compiled into ready-to-us
 
 ## How it works
 
-Source rulesets live in [`rulesets/`](rulesets) as YAML. A small .NET console app
-([`src/DomainRulesets.ConsoleApp`](src/DomainRulesets.ConsoleApp)) reads them, resolves `includes`,
+Source rulesets live in [`rulesets/`](rulesets) as YAML. A small .NET console app reads them, resolves `includes`,
 removes duplicates, and exports the target formats. On every push to `main` that touches the rulesets
 or the builder, CI runs the exporter and publishes the compiled artifacts to the **`release`** branch.
 
@@ -57,7 +56,7 @@ includes:                     # optional: merge rules from other rulesets by nam
 Requires the [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-dotnet run --project ./src/DomainRulesets.ConsoleApp/DomainRulesets.ConsoleApp.csproj -- \
+dotnet run --project ./src/DomainRulesets.csproj -- \
   -f shadowrocket v2ray \
   -i ./rulesets \
   -o ./release

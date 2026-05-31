@@ -1,4 +1,4 @@
-namespace DomainRulesets.ConsoleApp.Services.Interfaces;
+namespace DomainRulesets.Services.Interfaces;
 
 public interface IRulesetProcessor
 {

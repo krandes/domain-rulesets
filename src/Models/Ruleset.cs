@@ -1,14 +1,14 @@
-using DomainRulesets.ConsoleApp.Exceptions;
+using DomainRulesets.Exceptions;
 
-namespace DomainRulesets.ConsoleApp.Models;
+namespace DomainRulesets.Models;
 
 public sealed record Ruleset
 {
-    public string Name { get; init; } = null!;
+    public string Name { get; private init; } = null!;
 
-    public List<Rule> Rules { get; init; } = [];
+    public List<Rule> Rules { get; private init; } = [];
 
-    public List<string> Includes { get; init; } = [];
+    public List<string> Includes { get; private init; } = [];
 
     public Ruleset(string name, List<Rule>? rules, List<string>? includes)
     {

@@ -1,4 +1,4 @@
-namespace DomainRulesets.ConsoleApp.Enums;
+namespace DomainRulesets.Enums;
 
 public enum RuleType
 {

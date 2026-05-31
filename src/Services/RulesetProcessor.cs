@@ -1,10 +1,10 @@
-using DomainRulesets.ConsoleApp.Constants;
-using DomainRulesets.ConsoleApp.Services.Interfaces;
+using DomainRulesets.Constants;
+using DomainRulesets.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 
-namespace DomainRulesets.ConsoleApp.Services;
+namespace DomainRulesets.Services;
 
-public class RulesetProcessor(
+internal sealed class RulesetProcessor(
     IRulesetImporter rulesetImporter,
     IEnumerable<IRulesetExporter> rulesetExporters,
     ILogger<RulesetProcessor> logger) : IRulesetProcessor

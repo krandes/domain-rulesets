@@ -1,8 +1,8 @@
 ﻿using System.CommandLine;
-using DomainRulesets.ConsoleApp.Constants;
-using DomainRulesets.ConsoleApp.Exceptions;
-using DomainRulesets.ConsoleApp.Services;
-using DomainRulesets.ConsoleApp.Services.Interfaces;
+using DomainRulesets.Constants;
+using DomainRulesets.Exceptions;
+using DomainRulesets.Services;
+using DomainRulesets.Services.Interfaces;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -71,13 +71,13 @@ try
 catch (ValidationException exception)
 {
     Log.Error(exception, "Validation failed");
-    
+
     return 1;
 }
 catch (Exception exception)
 {
     Log.Error(exception, "Application terminated unexpectedly");
-    
+
     return 1;
 }
 finally

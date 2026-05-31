@@ -2,9 +2,9 @@ using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 using YamlDotNet.Serialization;
 
-namespace DomainRulesets.ConsoleApp.Converters;
+namespace DomainRulesets.Converters;
 
-public class StringTrimmingConverter : IYamlTypeConverter
+public sealed class StringTrimmingConverter : IYamlTypeConverter
 {
     public bool Accepts(Type type) => type == typeof(string);
 
