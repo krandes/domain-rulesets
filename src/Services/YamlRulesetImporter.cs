@@ -1,14 +1,14 @@
-using DomainRulesets.ConsoleApp.Converters;
-using DomainRulesets.ConsoleApp.Exceptions;
-using DomainRulesets.ConsoleApp.Models;
-using DomainRulesets.ConsoleApp.Services.Interfaces;
+using DomainRulesets.Converters;
+using DomainRulesets.Exceptions;
+using DomainRulesets.Models;
+using DomainRulesets.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
-namespace DomainRulesets.ConsoleApp.Services;
+namespace DomainRulesets.Services;
 
-public class YamlRulesetImporter(ILogger<YamlRulesetImporter> logger) : IRulesetImporter
+internal sealed class YamlRulesetImporter(ILogger<YamlRulesetImporter> logger) : IRulesetImporter
 {
     private readonly IDeserializer _deserializer = new DeserializerBuilder()
         .WithNamingConvention(CamelCaseNamingConvention.Instance)
@@ -47,15 +47,8 @@ public class YamlRulesetImporter(ILogger<YamlRulesetImporter> logger) : IRuleset
         return ExpandRulesets(rawRulesets);
     }
 
-    private List<Ruleset> ExpandRulesets(IReadOnlyDictionary<string, Ruleset> rulesets)
-    {
-        var expandedRulesets = new List<Ruleset>();
-
-        foreach (var name in rulesets.Keys)
-            expandedRulesets.Add(MergeIncludedRulesets(name, rulesets, visitStack: []));
-
-        return expandedRulesets;
-    }
+    private IReadOnlyCollection<Ruleset> ExpandRulesets(IReadOnlyDictionary<string, Ruleset> rulesets) =>
+        rulesets.Keys.Select(name => MergeIncludedRulesets(name, rulesets, visitStack: [])).ToArray();
 
     private Ruleset MergeIncludedRulesets(
         string name,
@@ -85,14 +78,14 @@ public class YamlRulesetImporter(ILogger<YamlRulesetImporter> logger) : IRuleset
         foreach (var rule in currentRuleset.Rules)
             uniqueRules[rule.Value.ToLower()] = rule;
 
-        var newStack = new List<string>(visitStack)
+        visitStack = new List<string>(visitStack)
         {
             name
         };
 
         foreach (var includeName in currentRuleset.Includes)
         {
-            var includedRuleset = MergeIncludedRulesets(includeName, allRulesets, newStack);
+            var includedRuleset = MergeIncludedRulesets(includeName, allRulesets, visitStack);
 
             foreach (var rule in includedRuleset.Rules)
                 uniqueRules[rule.Value.ToLower()] = rule;

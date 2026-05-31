@@ -1,0 +1,11 @@
+<Solution>
+    <Folder Name="/docs/">
+        <File Path="README.md" />
+    </Folder>
+    <Folder Name="/github/">
+        <File Path=".github\workflows\build.yml" />
+    </Folder>
+    <Folder Name="/src/">
+        <Project Path="src/DomainRulesets.csproj" />
+    </Folder>
+</Solution>

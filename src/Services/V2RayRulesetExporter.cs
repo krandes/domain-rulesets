@@ -1,14 +1,14 @@
-using DomainRulesets.ConsoleApp.Constants;
-using DomainRulesets.ConsoleApp.Enums;
-using DomainRulesets.ConsoleApp.Models;
-using DomainRulesets.ConsoleApp.Services.Interfaces;
-using Google.Protobuf;
+using DomainRulesets.Constants;
+using DomainRulesets.Enums;
+using DomainRulesets.Models;
+using DomainRulesets.Services.Interfaces;
 using Microsoft.Extensions.Logging;
 using V2Ray.Core.App.Router.Routercommon;
+using Google.Protobuf;
 
-namespace DomainRulesets.ConsoleApp.Services;
+namespace DomainRulesets.Services;
 
-public class V2RayRulesetExporter(ILogger<V2RayRulesetExporter> logger) : IRulesetExporter
+internal sealed class V2RayRulesetExporter(ILogger<V2RayRulesetExporter> logger) : IRulesetExporter
 {
     private const string OutputFileName = "geosite.dat";
 

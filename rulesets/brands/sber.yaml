@@ -3,6 +3,8 @@ rules:
   - type: suffix
     value: aihome.dev
   - type: suffix
+    value: giga.chat
+  - type: suffix
     value: oidconnect.com
   - type: suffix
     value: polly.events

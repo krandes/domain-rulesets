@@ -8,7 +8,7 @@ on:
       - 'rulesets/**'
       - 'src/**'
       - '**/*.csproj'
-      - '**/*.sln'
+      - '**/*.slnx'
 
 jobs:
   publish:
@@ -30,7 +30,7 @@ jobs:
 
       - name: Export rulesets
         run: |
-          dotnet run --project ./src/DomainRulesets.ConsoleApp/DomainRulesets.ConsoleApp.csproj -c Release -- \
+          dotnet run --project ./src/DomainRulesets.csproj -c Release -- \
             -f shadowrocket v2ray \
             -i ./rulesets \
             -o ./release

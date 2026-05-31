@@ -1,0 +1,6 @@
+name: salutejazz
+rules:
+  - type: suffix
+    value: jazz.sber.ru
+  - type: suffix
+    value: salutejazz.ru

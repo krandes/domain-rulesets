@@ -1,8 +1,8 @@
-namespace DomainRulesets.ConsoleApp.Models;
+namespace DomainRulesets.Models;
 
 public sealed record RuleOptions
 {
-    public List<string> Attributes { get; init; } = [];
+    public List<string> Attributes { get; private init; } = [];
 
     public RuleOptions(List<string>? attributes)
     {
